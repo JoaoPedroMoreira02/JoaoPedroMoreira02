@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [cybersecurity programs](https://github.com/JoaoPedroMoreira02/Pentester-journey)
 
-- 📝 I’m studying **Computer Science**
+- 📝 I’m studying **Computer Science in college**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joaomoreira02/](https://www.linkedin.com/in/joaomoreira02/)
 
