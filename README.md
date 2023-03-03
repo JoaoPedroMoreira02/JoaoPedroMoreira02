@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João, but I use S3R0N ​​as my HACKER code name</h1>
+<h1 align="center">Hi, I'm João, but I use S3R0N ​​as my HACKER code name</h1>
 <h3 align="center">Ethical Hacker, Freelance Pentester, Programmer and an Information Technology fanatic.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopedromoreira02" alt="joaopedromoreira02" /></a> </p>
@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **Freelance Pentester**
 
 - 🌱 I’m currently learning **Django**
+
+- ⚡ I have experience in hacking with CTFs and cybersecurity games, as well as being an absolute student of the field
 
 - 👯 I’m looking to collaborate on [cybersecurity programs](https://github.com/JoaoPedroMoreira02/Pentester-journey)
 
